@@ -44,15 +44,18 @@ header{
   }
   #tysm{
     color: #5b8040;
-    font-size: 2rem;
+    font-size: large ;
+    overflow:scroll;
     
   }
   footer{
     background-color: #6bff00
   }
+  #song{
+    color: #a0590d;
+  }
   .le{
-    
+        float:left;
         width: 200px;
         margin: 10px;
-        display: inline-block;
   }
